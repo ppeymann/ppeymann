@@ -11,7 +11,7 @@ const Peyman = {
   <br />
   language:"JavaScript" | "TypeScript" ,
   <br />
-  myStake:{
+  myStack:{
   <br />
      Front-End:"React",
      <br />
