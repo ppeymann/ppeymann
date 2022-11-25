@@ -9,7 +9,7 @@ const Peyman = {
 
   fullName:"Peyman Malek",
   
-  language:"JavaScript" | "TypeScript" ,
+  language:"JavaScript" | "TypeScript" | "GoLang" ,
   
   myStack:{
  
