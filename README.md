@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Web Developer ,<br>I Can Code with Js|Ts, GoLang AND Swift ;<br>and I learned react and Next MySelf ;<br>And I am very eager to cooperate with related companies ;</p>
+<p align="left">I'm a FullStack and IOS Developer ,<br>I Can Code with Js|Ts, GoLang AND Swift ;<br>and I learned react and Next MySelf ;<br>And I am very eager to cooperate with related companies ;</p>
 
 ###
 
