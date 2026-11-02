@@ -152,6 +152,14 @@ GORM · pgx · database/sql
   <img height="165" alt="GitHub contribution streak for ppeymann" src="https://streak-stats.demolab.com?user=ppeymann&theme=tokyonight&hide_border=true&border_radius=8" />
 </picture>
 
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ppeymann/ppeymann/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ppeymann/ppeymann/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ppeymann/ppeymann/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 <div align="center">
