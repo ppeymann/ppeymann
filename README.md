@@ -1,15 +1,15 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=210&section=header&text=Peyman%20Malek&fontSize=46&fontColor=c0caf5&animation=twinkling&fontAlignY=32&desc=Backend-focused%20Full-Stack%20Developer&descAlignY=56&descAlign=50&descSize=18" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f7f8fc,55:d7e3ff,100:7aa2f7&height=210&section=header&text=Peyman%20Malek&fontSize=46&fontColor=1a1b26&animation=twinkling&fontAlignY=32&desc=Backend-focused%20Full-Stack%20Developer&descAlignY=56&descAlign=50&descSize=18" />
-  <img width="100%" alt="Peyman Malek, backend-focused full-stack developer" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=210&section=header&text=Peyman%20Malek&fontSize=46&fontColor=c0caf5&animation=twinkling&fontAlignY=32&desc=Backend-focused%20Full-Stack%20Developer&descAlignY=56&descAlign=50&descSize=18" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1b26%2C50:24283b%2C100:7aa2f7&amp;height=210&amp;section=header&amp;text=Peyman%20Malek&amp;fontSize=46&amp;fontColor=c0caf5&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Senior%20Fullstack%20%26%20Mobile%20Developer&amp;descAlignY=56&amp;descAlign=50&amp;descSize=18" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f7f8fc%2C55:d7e3ff%2C100:7aa2f7&amp;height=210&amp;section=header&amp;text=Peyman%20Malek&amp;fontSize=46&amp;fontColor=1a1b26&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Senior%20Fullstack%20%26%20Mobile%20Developer&amp;descAlignY=56&amp;descAlign=50&amp;descSize=18" />
+  <img width="100%" alt="Peyman Malek, senior fullstack and mobile developer" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1b26%2C50:24283b%2C100:7aa2f7&amp;height=210&amp;section=header&amp;text=Peyman%20Malek&amp;fontSize=46&amp;fontColor=c0caf5&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Senior%20Fullstack%20%26%20Mobile%20Developer&amp;descAlignY=56&amp;descAlign=50&amp;descSize=18" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=760&height=50&lines=Backend-focused+full-stack+developer;Go%2C+PostgreSQL%2C+gRPC%2C+and+Gin;Next.js%2C+React%2C+TypeScript%2C+and+Tailwind;Physics+student+who+loves+building+software" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=1A1B26&center=true&vCenter=true&width=760&height=50&lines=Backend-focused+full-stack+developer;Go%2C+PostgreSQL%2C+gRPC%2C+and+Gin;Next.js%2C+React%2C+TypeScript%2C+and+Tailwind;Physics+student+who+loves+building+software" />
-  <img alt="Backend-focused full-stack developer" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=760&height=50&lines=Backend-focused+full-stack+developer;Go%2C+PostgreSQL%2C+gRPC%2C+and+Gin;Next.js%2C+React%2C+TypeScript%2C+and+Tailwind;Physics+student+who+loves+building+software" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=7AA2F7&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=50&amp;lines=Senior+Fullstack+%26+Mobile+Developer;7+years+with+Go%2C+gRPC%2C+and+REST;React%2C+Next.js%2C+Flutter%2C+and+SwiftUI;B.Sc.+Engineering+Physics+%28Laser+and+Optics%29" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=1A1B26&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=50&amp;lines=Senior+Fullstack+%26+Mobile+Developer;7+years+with+Go%2C+gRPC%2C+and+REST;React%2C+Next.js%2C+Flutter%2C+and+SwiftUI;B.Sc.+Engineering+Physics+%28Laser+and+Optics%29" />
+  <img alt="Senior Fullstack and Mobile Developer" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=7AA2F7&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=50&amp;lines=Senior+Fullstack+%26+Mobile+Developer;7+years+with+Go%2C+gRPC%2C+and+REST;React%2C+Next.js%2C+Flutter%2C+and+SwiftUI;B.Sc.+Engineering+Physics+%28Laser+and+Optics%29" />
 </picture>
 
 </div>
@@ -18,11 +18,38 @@
 
 ### About me
 
-I'm Peyman Malek, a physics student in Tehran who studied laser and optics and loves programming.
+**Senior Fullstack & Mobile Developer · Iran**
 
-I'm a backend-focused full-stack developer. The public work is mostly Go services: HTTP APIs with Gin and go-kit, PostgreSQL through GORM, pgx, and database/sql, MongoDB, gRPC, and token auth with JWT and PASETO. Interfaces are Next.js, React, TypeScript, and Tailwind. I also code in Swift for iOS.
+I'm Peyman Malek. I have 7 years of experience, specializing in backend engineering with Go. I build scalable APIs, microservices, and distributed backend systems, and I work with gRPC, REST, and fintech and payment infrastructure, including wallet and ledger systems.
 
-I'm eager to collaborate with companies building this kind of product.
+The full-stack range is React and Next.js on the web, and Flutter and Swift/SwiftUI on mobile. I own systems from architecture and API design through implementation, grounded in Clean and Hexagonal Architecture, DDD, and SOLID. That work has spanned healthtech, AI, social platforms, SaaS, and e-commerce.
+
+B.Sc. in Engineering Physics (Laser and Optics), Kermanshah University of Technology, 2016–2020.
+
+Persian (native) · English (professional working proficiency).
+
+### Experience
+
+Currently a backend developer at Shatou, on AI software for dental clinics.
+
+<table>
+  <tr>
+    <td align="left"><b>2025–2026</b></td>
+    <td align="left"><b>Backend Engineer, BesazAI</b><br>Go backend for an AI platform, AI API integrations, and a payment system.</td>
+  </tr>
+  <tr>
+    <td align="left"><b>2025–2026</b></td>
+    <td align="left"><b>Backend Go Developer, Beenbo</b><br>REST APIs for a social/advertising engagement platform.</td>
+  </tr>
+  <tr>
+    <td align="left"><b>2023–2024</b></td>
+    <td align="left"><b>Swift Developer, Meta Hospital</b><br>iOS healthcare app with real-time video calls, chat, lab results, and prescriptions.</td>
+  </tr>
+  <tr>
+    <td align="left"><b>2021–2023</b></td>
+    <td align="left"><b>Full-Stack Developer, Metamedland</b><br>Owned a medical platform end to end with Next.js and Go, real-time video calling, and chat.</td>
+  </tr>
+</table>
 
 </div>
 
@@ -30,40 +57,101 @@ I'm eager to collaborate with companies building this kind of product.
 
 ### Tech stack
 
+#### Languages
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go%2Cts%2Cjs%2Cswift%2Cdart%2Cpy&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go%2Cts%2Cjs%2Cswift%2Cdart%2Cpy&amp;theme=light" />
+  <img alt="Languages: Go, TypeScript, JavaScript, Swift, Dart, and Python" src="https://skillicons.dev/icons?i=go%2Cts%2Cjs%2Cswift%2Cdart%2Cpy&amp;theme=dark" />
+</picture>
+
 #### Backend
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,py,fastapi,django&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go,py,fastapi,django&theme=light" />
-  <img alt="Backend: Go, Python, FastAPI, Django" src="https://skillicons.dev/icons?i=go,py,fastapi,django&theme=dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=django%2Cfastapi&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=django%2Cfastapi&amp;theme=light" />
+  <img alt="Backend: Django and FastAPI" src="https://skillicons.dev/icons?i=django%2Cfastapi&amp;theme=dark" />
 </picture>
 
-Gin · go-kit · gRPC · JWT · PASETO
+<br>
 
-#### Databases
+<img alt="Gin" src="https://img.shields.io/badge/Gin-00ADD8?style=flat-square&amp;logo=go&amp;logoColor=white" />
+<img alt="Echo" src="https://img.shields.io/badge/Echo-00ADD8?style=flat-square&amp;logo=go&amp;logoColor=white" />
+<img alt="gRPC" src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square" />
+<img alt="Protobuf" src="https://img.shields.io/badge/Protobuf-4285F4?style=flat-square" />
+<img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&amp;logo=swagger&amp;logoColor=black" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=light" />
-  <img alt="Databases: PostgreSQL, MongoDB, Redis" src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" />
-</picture>
-
-GORM · pgx · database/sql
+REST and gRPC services, microservices, auth, middleware, and background processing. Also sqlc, pgx, GORM, JWT, PASETO, and testcontainers-go.
 
 #### Frontend
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,flutter&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,flutter&theme=light" />
-  <img alt="Frontend: TypeScript, JavaScript, React, Next.js, Tailwind, HTML, CSS, Flutter" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,flutter&theme=dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cangular%2Ctailwind&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cangular%2Ctailwind&amp;theme=light" />
+  <img alt="Frontend: React, Next.js, Angular, and Tailwind CSS" src="https://skillicons.dev/icons?i=react%2Cnextjs%2Cangular%2Ctailwind&amp;theme=dark" />
 </picture>
 
-#### DevOps & tools
+<br>
+
+<img alt="TanStack Query" src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&amp;logo=reactquery&amp;logoColor=white" />
+
+React, Next.js, and Angular, with state management. Tailwind CSS and Persian RTL UI.
+
+#### Mobile
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,githubactions,kubernetes,prometheus&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,githubactions,kubernetes,prometheus&theme=light" />
-  <img alt="DevOps and tools: Docker, GitHub Actions, Kubernetes, Prometheus" src="https://skillicons.dev/icons?i=docker,githubactions,kubernetes,prometheus&theme=dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter%2Cswift%2Cdart&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter%2Cswift%2Cdart&amp;theme=light" />
+  <img alt="Mobile: Flutter, Swift, and Dart" src="https://skillicons.dev/icons?i=flutter%2Cswift%2Cdart&amp;theme=dark" />
+</picture>
+
+Flutter with Provider and Riverpod. SwiftUI with MVVM, and native iOS.
+
+#### Databases
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Cmysql%2Cmongodb%2Credis&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres%2Cmysql%2Cmongodb%2Credis&amp;theme=light" />
+  <img alt="Databases: PostgreSQL, MySQL, MongoDB, and Redis" src="https://skillicons.dev/icons?i=postgres%2Cmysql%2Cmongodb%2Credis&amp;theme=dark" />
+</picture>
+
+<br>
+
+<img alt="TigerBeetle" src="https://img.shields.io/badge/TigerBeetle-1a1b26?style=flat-square" />
+<img alt="MinIO" src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&amp;logo=minio&amp;logoColor=white" />
+<img alt="pgvector" src="https://img.shields.io/badge/pgvector-336791?style=flat-square&amp;logo=postgresql&amp;logoColor=white" />
+
+#### AI
+
+<img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" />
+<img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=flat-square&amp;logo=ollama&amp;logoColor=white" />
+
+AI API integrations, embeddings, and chat, plus local models through Ollama for RAG.
+
+#### Architecture
+
+Clean Architecture, Hexagonal Architecture, DDD, SOLID, and design patterns. Monoliths and microservices.
+
+#### DevOps
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker%2Cgitlab%2Cgithubactions%2Ckubernetes%2Cnginx%2Clinux&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker%2Cgitlab%2Cgithubactions%2Ckubernetes%2Cnginx%2Clinux&amp;theme=light" />
+  <img alt="DevOps: Docker, GitLab CI, GitHub Actions, Kubernetes, Nginx, and Linux" src="https://skillicons.dev/icons?i=docker%2Cgitlab%2Cgithubactions%2Ckubernetes%2Cnginx%2Clinux&amp;theme=dark" />
+</picture>
+
+<br>
+
+<img alt="Docker Compose" src="https://img.shields.io/badge/Compose-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" />
+
+Docker and Docker Compose, Linux, GitLab CI, and GitHub Actions, including the reusable workflows in [ci-templates](https://github.com/ppeymann/ci-templates). Kubernetes, Nginx and other reverse proxies, logging, and monitoring.
+
+#### Tools
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cneovim%2Capple&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cneovim%2Capple&amp;theme=light" />
+  <img alt="Tools: Git, GitHub, Neovim, and macOS" src="https://skillicons.dev/icons?i=git%2Cgithub%2Cneovim%2Capple&amp;theme=dark" />
 </picture>
 
 </div>
@@ -78,52 +166,24 @@ GORM · pgx · database/sql
     <th align="left">What it is</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/ppeymann/accounting"><b>accounting</b></a></td>
-    <td>Go API for expenses, bank cards, and monthly or annual statements.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ppeymann/Planora"><b>Planora</b></a></td>
-    <td>User, todo, and room services with gRPC, Gin, PostgreSQL, and NATS.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ppeymann/ecommerce"><b>ecommerce</b></a></td>
-    <td>Gin API gateway and a gRPC user service, backed by PostgreSQL.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ppeymann/vendors"><b>vendors</b></a></td>
-    <td>Go API with user and product services, PostgreSQL, and MinIO.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ppeymann/top-app"><b>top-app</b></a></td>
-    <td>OTP API for mobile sign-up, sign-in, and user profiles, with PostgreSQL and Redis.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ppeymann/go_backend"><b>go_backend</b></a></td>
-    <td>Example backend for frontend practice, with PostgreSQL, MinIO, and Swagger.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ppeymann/todo_be"><b>todo_be</b></a></td>
-    <td>Todo REST API with authentication, status updates, and Swagger.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ppeymann/todolist-Backend"><b>todolist-Backend</b></a></td>
-    <td>Todo API built with Go, Gorilla Mux, and MongoDB.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ppeymann/jwt-golang-gin"><b>jwt-golang-gin</b></a></td>
-    <td>JWT authentication API using Gin and MongoDB.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ppeymann/genai"><b>genai</b></a></td>
-    <td>Go CLI that sends prompts to Gemini through the Google GenAI SDK.</td>
+    <td><a href="https://github.com/ppeymann/Orvex-showcase"><b>Orvex-showcase</b></a></td>
+    <td>Digital wallet and ledger platform. Go, gRPC/Protobuf, TigerBeetle, PostgreSQL, Redis, Docker, and Flutter with Riverpod. Idempotent transfers and Clean/Hexagonal architecture.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/ppeymann/ci-templates"><b>ci-templates</b></a></td>
-    <td>Reusable GitHub Actions for Docker and Kubernetes pipelines.</td>
+    <td>24 reusable GitHub Actions workflows for Go, Next.js, Django, FastAPI, Spring, Node, .NET, Rust, Laravel, Swift Vapor, static sites, iOS SwiftUI, and Flutter. Docker and Kubernetes, Trivy, releases, rollback, review apps, and migrations as Jobs.</td>
+  </tr>
+  <tr>
+    <td><b>Maya Azma</b></td>
+    <td>E-commerce platform for laboratory equipment, built with Next.js and Go.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/ppeymann/Atelier"><b>Atelier</b></a> · <a href="https://github.com/ppeymann/Atelier_be"><b>Atelier_be</b></a></td>
-    <td>Tailoring-workshop app: Flutter client, and a FastAPI backend for clients, orders, and measurements.</td>
+    <td>Tailoring workshop management system. Flutter client and FastAPI backend.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ppeymann/accounting"><b>accounting</b></a></td>
+    <td>Go API for expenses, bank cards, and monthly or annual statements.</td>
   </tr>
 </table>
 
@@ -134,22 +194,22 @@ GORM · pgx · database/sql
 ### GitHub
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=ppeymann&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=percentile" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=ppeymann&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=percentile&bg_color=ffffff&title_color=1a1b26&text_color=414868&icon_color=7aa2f7&border_color=e5e9f0" />
-  <img height="165" alt="GitHub stats for ppeymann" src="https://github-stats-extended.vercel.app/api?username=ppeymann&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=percentile" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=ppeymann&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;rank_icon=percentile" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=ppeymann&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;rank_icon=percentile&amp;bg_color=ffffff&amp;title_color=1a1b26&amp;text_color=414868&amp;icon_color=7aa2f7&amp;border_color=e5e9f0" />
+  <img height="165" alt="GitHub stats for ppeymann" src="https://github-stats-extended.vercel.app/api?username=ppeymann&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;rank_icon=percentile" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=ppeymann&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=440" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=ppeymann&layout=compact&hide_border=true&langs_count=6&card_width=440&bg_color=ffffff&title_color=1a1b26&text_color=414868" />
-  <img height="165" alt="Top languages for ppeymann" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ppeymann&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=440" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=ppeymann&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=6&amp;card_width=440" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=ppeymann&amp;layout=compact&amp;hide_border=true&amp;langs_count=6&amp;card_width=440&amp;bg_color=ffffff&amp;title_color=1a1b26&amp;text_color=414868" />
+  <img height="165" alt="Top languages for ppeymann" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ppeymann&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=6&amp;card_width=440" />
 </picture>
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ppeymann&theme=tokyonight&hide_border=true&border_radius=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ppeymann&theme=default&hide_border=true&border_radius=8&background=FFFFFF&ring=7AA2F7&fire=7AA2F7&currStreakLabel=1A1B26&sideLabels=414868&dates=7AA2F7&currStreakNum=1A1B26&sideNums=414868" />
-  <img height="165" alt="GitHub contribution streak for ppeymann" src="https://streak-stats.demolab.com?user=ppeymann&theme=tokyonight&hide_border=true&border_radius=8" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ppeymann&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ppeymann&amp;theme=default&amp;hide_border=true&amp;border_radius=8&amp;background=FFFFFF&amp;ring=7AA2F7&amp;fire=7AA2F7&amp;currStreakLabel=1A1B26&amp;sideLabels=414868&amp;dates=7AA2F7&amp;currStreakNum=1A1B26&amp;sideNums=414868" />
+  <img height="165" alt="GitHub contribution streak for ppeymann" src="https://streak-stats.demolab.com?user=ppeymann&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=8" />
 </picture>
 
 <br>
@@ -166,17 +226,16 @@ GORM · pgx · database/sql
 
 ### Contact
 
-<a href="https://ppeymann.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Website-7AA2F7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/peyman-malek-520081230/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://t.me/p_peyman_n"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://instagram.com/p.peyman.n"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://ppeymann.netlify.app"><img alt="Website" src="https://img.shields.io/badge/Website-7AA2F7?style=for-the-badge&amp;logo=netlify&amp;logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/peyman-malek"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+<a href="mailto:p.malek32@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:24283b,100:1a1b26&height=110&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,55:d7e3ff,100:f7f8fc&height=110&section=footer" />
-  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:24283b,100:1a1b26&height=110&section=footer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7aa2f7%2C50:24283b%2C100:1a1b26&amp;height=110&amp;section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7aa2f7%2C55:d7e3ff%2C100:f7f8fc&amp;height=110&amp;section=footer" />
+  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7aa2f7%2C50:24283b%2C100:1a1b26&amp;height=110&amp;section=footer" />
 </picture>
 
 </div>
