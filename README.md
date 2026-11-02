@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1b26%2C50:24283b%2C100:7aa2f7&amp;height=210&amp;section=header&amp;text=Peyman%20Malek&amp;fontSize=46&amp;fontColor=c0caf5&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Senior%20Fullstack%20%26%20Mobile%20Developer&amp;descAlignY=56&amp;descAlign=50&amp;descSize=18" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:f7f8fc%2C55:d7e3ff%2C100:7aa2f7&amp;height=210&amp;section=header&amp;text=Peyman%20Malek&amp;fontSize=46&amp;fontColor=1a1b26&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Senior%20Fullstack%20%26%20Mobile%20Developer&amp;descAlignY=56&amp;descAlign=50&amp;descSize=18" />
-  <img width="100%" alt="Peyman Malek, senior fullstack and mobile developer" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1b26%2C50:24283b%2C100:7aa2f7&amp;height=210&amp;section=header&amp;text=Peyman%20Malek&amp;fontSize=46&amp;fontColor=c0caf5&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Senior%20Fullstack%20%26%20Mobile%20Developer&amp;descAlignY=56&amp;descAlign=50&amp;descSize=18" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
+  <img width="100%" alt="Peyman Malek, senior fullstack and mobile developer" src="assets/header-dark.svg" />
 </picture>
 
 <picture>
